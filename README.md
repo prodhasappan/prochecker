@@ -28,7 +28,7 @@ Special thanks to ....all of this for helping me set up this README file!
 
   INSTALATION >
 
-
-  1. git clone .....
+Terminal Command
+  1. git clone link
   2. cd prochecker
   3. python3 run.py
